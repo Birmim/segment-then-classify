@@ -5,4 +5,5 @@ __pycache__/
 .ipynb
 /data/
 test.ipynb
-
+test_segmentation.ipynb
+/checkpoints/
